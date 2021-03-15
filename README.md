@@ -1,4 +1,4 @@
-# How to customize style of the scroll viewer in wpf datagrid?
+# How to customize style of the scroll viewer in WPF DataGrid (SfDataGrid)?
 
 This example illustrates how to customize style of the scroll viewer in [WPF DataGrid](https://www.syncfusion.com/wpf-ui-controls/datagrid) (SfDataGrid).
 
