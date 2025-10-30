@@ -1,8 +1,8 @@
-# How to customize style of the scroll viewer in WPF DataGrid (SfDataGrid)?
+# How to Customize Style of the ScrollViewer in WPF DataGrid?
 
-This example illustrates how to customize style of the `ScrollViewer` in [WPF DataGrid](https://www.syncfusion.com/wpf-ui-controls/datagrid) (SfDataGrid).
+This example illustrates how to customize style of the **ScrollViewer** in [WPF DataGrid](https://www.syncfusion.com/wpf-ui-controls/datagrid) (SfDataGrid).
 
-You can customize the style of `ScrollViewer` in which WPF DataGrid (`SfDataGrid`) is loaded. But while scrolling using mouse wheel, the header will also be scrolled with records. You can overcome this behavior by binding the [CanContentScroll](https://learn.microsoft.com/en-us/dotnet/api/system.windows.controls.scrollviewer.cancontentscroll?view=netframework-4.7.2#System_Windows_Controls_ScrollViewer_CanContentScroll) property of [ScrollViewer](https://learn.microsoft.com/en-us/dotnet/api/system.windows.controls.scrollviewer?view=netframework-4.7.2).
+You can customize the style of **ScrollViewer** in which DataGrid is loaded. But while scrolling using mouse wheel, the header will also be scrolled with records. You can overcome this behavior by binding the [CanContentScroll](https://learn.microsoft.com/en-us/dotnet/api/system.windows.controls.scrollviewer.cancontentscroll?view=netframework-4.7.2#System_Windows_Controls_ScrollViewer_CanContentScroll) property of [ScrollViewer](https://learn.microsoft.com/en-us/dotnet/api/system.windows.controls.scrollviewer?view=netframework-4.7.2).
 
 ``` xml
 <Window.Resources>
